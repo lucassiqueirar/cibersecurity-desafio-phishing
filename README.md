@@ -13,7 +13,7 @@
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
+- Obtendo o endereço da máquina: ``` ifconfig ``` Ou utilizando: ``` localhost:80 ```
 - URL para clone: https://github.com/login
 
 ### Resutados
